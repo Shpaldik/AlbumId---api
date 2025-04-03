@@ -13,7 +13,7 @@ A sleek and responsive **album search** application built with **Vue 3, PrimeVue
 ✔️ Efficient data handling  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** Vue 3
+- **Frontend:** Vue 3, axios
 - **Build Tool:** Vite  
 - **Styling:** Tailwind CSS  
 
@@ -26,9 +26,4 @@ git clone https://github.com/yourusername/shpaldik.git
 cd shpaldik  
 npm install  
 npm run dev  
-```
-
-
----
-npm run build
 ```
