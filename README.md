@@ -4,7 +4,7 @@ Here's a well-structured and visually appealing README for your project:
 
 # 🌟 Shpaldik  
 
-A sleek and responsive **album search** application built with **Vue 3, PrimeVue, and Vite**.  
+A sleek and responsive **album search** application built with **Vue 3, axios, and Vite**.  
 
 ## 🚀 Features  
 ✔️ Search albums by ID  
