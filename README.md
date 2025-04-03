@@ -1,29 +1,34 @@
-# shop-vue
+Here's a well-structured and visually appealing README for your project:  
 
-This template should help get you started developing with Vue 3 in Vite.
+---
 
-## Recommended IDE Setup
+# 🌟 Shpaldik  
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+A sleek and responsive **album search** application built with **Vue 3, PrimeVue, and Vite**.  
 
-## Customize configuration
+## 🚀 Features  
+✔️ Search albums by ID  
+✔️ Dark mode support 🌙  
+✔️ Interactive and responsive UI  
+✔️ Efficient data handling  
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## 🛠️ Tech Stack  
+- **Frontend:** Vue 3
+- **Build Tool:** Vite  
+- **Styling:** Tailwind CSS  
 
-## Project Setup
+## 📸 Screenshot  
+![Shpaldik Preview](./screenshot.png)  
 
+## 📦 Installation  
 ```sh
-npm install
+git clone https://github.com/yourusername/shpaldik.git  
+cd shpaldik  
+npm install  
+npm run dev  
 ```
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
+---
 npm run build
 ```
